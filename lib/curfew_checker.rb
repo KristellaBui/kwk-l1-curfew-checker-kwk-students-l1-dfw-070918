@@ -3,6 +3,8 @@ def simple_curfew_checker(time)
     puts "You're in trouble! Better get home quick!"
 end
 
+simple_curfew_checker(time)
+
 def curfew_checker(time)
   # code goes here
 end
